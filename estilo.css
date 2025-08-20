@@ -271,6 +271,13 @@ h4{
 	flex-flow: row;
 }
 
+.credito a{
+	text-decoration: none;
+	color: oldlace;
+	padding-left:10px ;
+	font-weight: 700;
+}
+
 @media (min-width:407px) and (max-width:902px){
 .logo {
   transition: padding-top 0.1s ease;
